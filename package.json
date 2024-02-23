@@ -1,12 +1,20 @@
 {
-  "name": "opentest",
+  "name": "autodraw",
   "version": "1.0.0",
-  "description": "",
+  "description": "auto draw",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "hrsdef",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hrsdef/autoDraw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hrsdef/autoDraw/issues"
+  },
+  "homepage": "https://github.com/hrsdef/autoDraw#readme"
 }
